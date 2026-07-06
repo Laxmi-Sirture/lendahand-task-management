@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LendAHand.API/LendAHand.API.csproj" />
+  <Project Path="LendAHand.Application/LendAHand.Application.csproj" />
+  <Project Path="LendAHand.Domain/LendAHand.Domain.csproj" />
+  <Project Path="LendAHand.Infrastructure/LendAHand.Infrastructure.csproj" />
+</Solution>
